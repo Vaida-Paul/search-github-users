@@ -5,6 +5,8 @@ This project is a single-page application (SPA) built with React that allows use
 *their most used programming languages
 *most forked repositories
 
+## Deployment: Netlify (https://github-searh-users-react-app.netlify.app/
+
 ## Features:
 *GitHub User Search: Search for any GitHub user and fetch their data using the GitHub API.
 *Fusion Charts: Beautifully visualize user data with interactive charts from FusionCharts.
